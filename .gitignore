@@ -1,0 +1,6 @@
+.RData
+node_modules/
+*.csv
+*.Rout
+*.zip
+*.png
