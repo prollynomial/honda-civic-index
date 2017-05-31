@@ -18,9 +18,9 @@ The criteria for cities are that they (a) have an NHL team, and (b) primarily us
 - Price as a function of model year
 - Price as a function of kilometers
 - Prices of different "reference Civics"
-    + 2005 model with 225-275k kms (~20k kms per year)
-    + 2010 model with 125-175k kms (~20k kms per year)
-    + 2015 model with 25-75k kms (~20k kms per year)
+    + 2005 model with 260k ±10% kms
+    + 2010 model with 160k ±10% kms
+    + 2015 model with 60k ±10% kms
 
 ## Results
 ![mtl][mtl]
